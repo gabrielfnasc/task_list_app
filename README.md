@@ -1,16 +1,16 @@
 # task_list_app
 
-A new Flutter project.
+<p align="justify">
+ <h4>What´s the objective?</h4>
+  
+  this project have the main concern of help people to understand flutter, i hope you enjoy the app! 
+  
+</p>
 
-## Getting Started
+### Commands that you need to know:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. To find your emulators is the follow command : flutter emulators
+2. To choose the emulator is the follow command : flutter emulators --launch <emulator ID>
+3. To show the real devices is the follow command : flutter devices
+4. To run the real device is the follow command : run flutter <device ID>
+5. To install the packages is the follow comand : flutter pub get
