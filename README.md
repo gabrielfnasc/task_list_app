@@ -3,7 +3,7 @@
 <p align="justify">
  <h4>What´s the objective?</h4>
   
-  this project have the main concern of help people to understand flutter, i hope you enjoy the app! 
+  
   
 </p>
 
