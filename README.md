@@ -2,7 +2,8 @@
 
 <p align="justify">
  <h4>What´s the objective?</h4>
-  
+ 
+  An application which you can set your daily tasks. An efficient way to put the things together.
   
   
 </p>
