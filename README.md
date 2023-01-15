@@ -110,7 +110,7 @@ Start doing these steps :
 
  Run the project
    ```
-   npm run dev
+   flutter run
    ```
    
 
@@ -123,10 +123,12 @@ Start doing these steps :
 
 ## Instructions
 
- Debug the project
-   ```
-   npm run dev and click on the debug icon on your IDE
-   ```
+   1. To find your emulators is the follow command : flutter emulators
+   2. To choose the emulator is the follow command : flutter emulators --launch <emulator ID>
+   3. To show the real devices is the follow command : flutter devices
+   4. To run the real device is the follow command : run flutter <device ID>
+   5. To install the packages is the follow comand : flutter pub get
+   Task list application made with Flutter
    
 
 
